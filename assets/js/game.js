@@ -49,7 +49,7 @@ if (enemyHealth <= 0) {
     }
     // if no (false), ask question again by running fight() again
     else {
-      fight();
+     // fight();
     }
   }
 
